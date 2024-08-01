@@ -4,7 +4,7 @@ theme: default
 paginate: true
 ---
 
-# SET（Software Engineering in Test）について
+# SET（Software Engineer in Test）について
 
 ---
 
@@ -17,7 +17,7 @@ paginate: true
 
 ---
 
-## SETに対するよくある誤解
+## SETに対するよくある誤解（らしい）
 
 **ここ誰か考えてくれ** 
 
@@ -29,10 +29,11 @@ paginate: true
 
 ---
 
-## SETコミュニティを作りますう？
+## この会のモチベーション
 
-- SETのプレゼンスを上げよう
-- SETについて理解を深めよう
+- SETのプレゼンスを上げたい
+- SETの専門性について理解を深めたい
+- なんとなく楽しそうだから
 
 ---
 
