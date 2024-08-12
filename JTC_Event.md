@@ -31,7 +31,7 @@ JTCは日本のQA/テストコミュニティとコラボレーションして�
 これらは主催者の本意ではありません。
 
 JTCは一体なんなのか？怪しい外国人のコミュニティではないのか？  
-批判的なコメントも含めて、なんでも答えますので、なんでも聞いてください。
+どんな批判的な意見でも歓迎します！なんでも聞いてください。  
 
 A community called Japan Test Community (henceforth JTC) has been born.  
 JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
@@ -40,8 +40,7 @@ However, too much enthusiasm has resulted in one-sided propaganda and dubious Ja
 These are not the organisers' intention.
 
 What exactly is JTC? Is it not a suspicious foreign community?
-We will answer anything and everything, including critical comments, so please ask anything.
-
+We welcome any and all questions, including critical ones, so please ask anything you want!  
 
 ## Date, time and venue
 
