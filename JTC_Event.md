@@ -1,5 +1,11 @@
 # 【AskMeAnything】JapanTestCommunityに対する疑問に全部答える会([AskMeAnything] A meeting to answer all your questions about JapanTestCommunity.)
 
+本文章は、日本語ネイティブじゃない方にも理解できるように、英語での文章も併記しています。  
+書いているのは日本語ネイティブの奴(@55_ymzn)です。  
+
+This text is also written in English so that non-native Japanese speakers can understand it.  
+It is written by a native Japanese speaker (@55_ymzn).  
+
 ## General
 
 Japan Test Communityに対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。  
@@ -24,8 +30,8 @@ JTCは日本のQA/テストコミュニティとコラボレーションして�
 しかしながら、その情熱が強すぎるあまり、一方的な宣伝や怪しい日本語コミュニケーションが発生してしまいました。  
 これらは主催者の本意ではありません。
 
-JTCは一体なんなのか？怪しい外国人のコミュニティではないのか？
-その他なんでも答えますので、なんでも聞いてください。
+JTCは一体なんなのか？怪しい外国人のコミュニティではないのか？  
+批判的なコメントも含めて、なんでも答えますので、なんでも聞いてください。
 
 A community called Japan Test Community (henceforth JTC) has been born.  
 JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
@@ -34,7 +40,7 @@ However, too much enthusiasm has resulted in one-sided propaganda and dubious Ja
 These are not the organisers' intention.
 
 What exactly is JTC? Is it not a suspicious foreign community?
-We will answer anything else, so please ask anything.
+We will answer anything and everything, including critical comments, so please ask anything.
 
 
 ## Date, time and venue
@@ -57,8 +63,9 @@ TBD
 
 ### Yamazun 
 
-英語一歳喋れないのに巻き込まれたテスター  
-日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
+英語一歳喋れないのに巻き込まれたDirty Tester/バキバキQA   
+JTCへのスタンスとしては日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
+JTCに対して平気で批判的な言動をします  
 
 ## Link
 
