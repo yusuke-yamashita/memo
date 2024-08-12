@@ -10,7 +10,7 @@ paginate: true
 
 ## SETとは何なのか
 
-- **Software Engineering in Test (SET)** は、Googleが言い出したエンジニアの専門性やロールのこと
+- **Software Engineers in Test (SET)** は、Googleが言い出したエンジニアの専門性やロールのこと
 - テスト自動化やテストの効率化を図り、品質を向上させることを目的としています。
   - 特にGoogleでは単体テストのサポートをするみたい
 - ChatGPTに聞いてみた内容
