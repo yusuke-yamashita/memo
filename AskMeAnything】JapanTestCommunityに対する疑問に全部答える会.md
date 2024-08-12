@@ -1,0 +1,52 @@
+# 【AskMeAnything】JapanTestCommunityに対する疑問に全部答える会([AskMeAnything] A meeting to answer all your questions about JapanTestCommunity.)
+
+## General
+
+Japan Test Communityに対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。  
+本イベントはAsk Me Anything形式で行います。  
+
+事前に質問は収集しますが、その場で聞きたくなったことを聞いてもいいです。
+
+日本語の通訳も参加します。  
+
+Organiser Mesut Durukal (@DurukalMesut) will answer all your questions about Japan Test Community.  
+This event will be conducted in an Ask Me Anything format.  
+
+Questions will be collected in advance, but you can ask anything you feel like asking on the spot.  
+
+Japanese interpreters will also be present.  
+
+## Context
+
+Japan Test Community(以後JTC)というコミュニティが爆誕しました。  
+JTCは日本のQA/テストコミュニティとコラボレーションして、日本をソフトウェアリーダにしようと画策しています。  
+
+しかしながら、その情熱が強すぎるあまり、一方的な宣伝や怪しい日本語コミュニケーションが発生してしまいました。  
+これらは主催者の本意ではありません。
+
+JTCは一体なんなのか？怪しい外国人のコミュニティではないのか？
+その他なんでも答えますので、なんでも聞いてください。
+
+A community called Japan Test Community (henceforth JTC) has been born.  
+JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
+
+However, too much enthusiasm has resulted in one-sided propaganda and dubious Japanese communication.  
+These are not the organisers' intention.
+
+What exactly is JTC? Is it not a suspicious foreign community?
+We will answer anything else, so please ask anything.
+
+
+## Date, time and venue
+
+- 開催日時　：　2024 年 9 月 中旬　19：00～21：00(気が済むまで)
+- 会場　　　：　オンライン開催（Zoom）
+
+- Date : Mid-September 2024 19:00-21:00 (until you feel comfortable)
+- Venue: Online (Zoom)
+
+## Introdction to Mesut Durukal
+
+TBD
+
+## Link
