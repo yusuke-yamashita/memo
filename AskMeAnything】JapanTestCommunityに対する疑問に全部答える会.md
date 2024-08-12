@@ -45,8 +45,21 @@ We will answer anything else, so please ask anything.
 - Date : Mid-September 2024 19:00-21:00 (until you feel comfortable)
 - Venue: Online (Zoom)
 
-## Introdction to Mesut Durukal
+## Introdction
+
+### Mesut Durukal
 
 TBD
 
+### Chris Ding
+
+通訳
+
+### Yamazun 
+
+英語一歳喋れないのに巻き込まれたテスター  
+日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
+
 ## Link
+
+- 
