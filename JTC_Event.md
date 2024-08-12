@@ -1,6 +1,6 @@
 # 【AskMeAnything】JapanTestCommunityに対する疑問に全部答える会([AskMeAnything] A meeting to answer all your questions about JapanTestCommunity.)
 
-本文章は、日本語ネイティブじゃない方にも理解できるように、英語での文章も併記しています。  
+この文章は、日本語ネイティブじゃない方にも理解できるように、英語を併記しています。  
 書いているのは日本語ネイティブの奴(@55_ymzn)です。  
 
 This text is also written in English so that non-native Japanese speakers can understand it.  
@@ -65,7 +65,11 @@ TBD
 
 英語一歳喋れないのに巻き込まれたDirty Tester/バキバキQA   
 JTCへのスタンスとしては日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
-JTCに対して平気で批判的な言動をします  
+JTCに対して平気で批判的な言動をします。
+
+A Dirty Tester/QA who got dragged into this despite not speaking a word of English.
+As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.
+He freely makes critical remarks about JTC.
 
 ## Link
 
