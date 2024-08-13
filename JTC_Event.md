@@ -1,4 +1,8 @@
-# 【AskMeAnything】JapanTestCommunityに対する疑問に全部答える会([AskMeAnything] A meeting to answer all your questions about JapanTestCommunity.)
+# 【JTC & TTF: AskMeAnything】
+
+`JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会([AskMeAnything]`
+
+`A meeting to answer all your questions about JapanTestCommunity and TokyoTestFest.`
 
 この文章は、日本語ネイティブじゃない方にも理解できるように、英語を併記しています。  
 書いているのは日本語ネイティブの奴(@55_ymzn)です。  
@@ -33,32 +37,36 @@ JTCは日本のQA/テストコミュニティとコラボレーションして�
 JTCは一体なんなのか？怪しい外国人のコミュニティではないのか？  
 どんな批判的な意見でも歓迎します！なんでも聞いてください。  
 
-A community called Japan Test Community (henceforth JTC) has been born.  
+Japan Test Community (JTC) is created in early 2024.  
 JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
 
-However, too much enthusiasm has resulted in one-sided propaganda and dubious Japanese communication.  
-These are not the organisers' intention.
+JTC wants to have Japanese people in the organization team. They tried to communicate and interact with them, 
+but since they are not native speakers, this effort seemed unnatural and even suspicious.  
+These want to express themselves and explain their intention.
 
-What exactly is JTC? Is it not a suspicious foreign community?
-We welcome any and all questions, including critical ones, so please ask anything you want!  
+For this purpose, we will have a AMA session. We welcome any and all questions, including critical ones, 
+so please ask anything you want! (What exactly is JTC? Is it not a suspicious foreign community?)
 
 ## Date, time and venue
 
 - 開催日時　：　2024 年 9 月 中旬　19：00～21：00(気が済むまで)
 - 会場　　　：　オンライン開催（Zoom）
 
-- Date : Mid-September 2024 19:00-21:00 (until you feel comfortable)
+
+- Date : Mid-September 2024 19:00-21:00 (exact date will be announced)
 - Venue: Online (Zoom)
 
-## Introdction
+## Introduction
 
 ### Mesut Durukal
 
-TBD
+[日本語]
 
-### Chris Ding
-
-通訳
+Mesut is the head of TTF. He is a senior QA Automation Engineer with 15 years experience. He is passionate about public 
+speaking and has given more than 150 international talks in several conferences like PNSQC, ATD, Building Stuff, 
+NDC Sydney, Agile Manchester, Jasst, DevopsDays Tokyo. His speaking engagements are listed 
+[here](https://drive.google.com/file/d/1lKTxhk1KEhXBw4kJRTBnHrfusn1S6-Yi/view?usp=drive_link). He wants to use his
+experience and create an top-tier conference in Japan.
 
 ### Yamazun 
 
@@ -67,9 +75,21 @@ JTCへのスタンスとしては日本にいるテスターQAが幸せなら協
 JTCに対して平気で批判的な言動をします。
 
 A Dirty Tester/QA who got dragged into this despite not speaking a word of English.
-As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.
+As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and 
+QA happier, but will stop if it becomes harmful.
 He freely makes critical remarks about JTC.
 
-## Link
+### 通訳 (Interpreters)
 
-- 
+* Chris Ding
+* TBD
+
+## Links
+
+- [TTF Website](https://tokyotestfest.com/)
+- [TTF Manifesto](https://drive.google.com/file/d/1SqSellW0E2jEif7upN-llhzNE9KYXb_M/view?usp=sharing)
+- [TTF X](https://x.com/tokyotestfest)
+- [TTF Facebook](https://www.facebook.com/tokyotestfest)
+- [JTC Slack](https://join.slack.com/t/japantestcommunity/shared_invite/zt-2cak1u0q8-2ebhh1azGJ5AFeFCvnrNfQ)
+- [JTC Connpass](https://japantestcommunity.connpass.com/)
+- [JTC Meetup](https://www.meetup.com/japan-test-community/)
