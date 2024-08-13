@@ -31,12 +31,12 @@ Japanese interpreters will also be present.
 事前に以下のGoogle Formで収集します。  
 https://forms.gle/W9mdqS2sBFSM2KcE9  
 
-当日はslidoでも収集します。  
+当日はSlidoでも収集する予定。    
 
 Collect in advance with the following Google Form.  
 https://forms.gle/W9mdqS2sBFSM2KcE9  
 
-Also collected on the day in SLIDO.  
+It will also be collected in Slido on the day.  
 
 ## Context
 
@@ -68,6 +68,14 @@ so please ask anything you want! (What exactly is JTC? Is it not a suspicious fo
 
 - Date : 3 September 2024 (Tuesday) 19:00-21:00
 - Venue: Online (Zoom)
+
+## Agenda
+
+- 15 mins: 紹介プレゼン
+- 残り: 質問タイム
+
+- 15 mins: Intro Presentation
+- time left: QA time
 
 ## Introduction
 
