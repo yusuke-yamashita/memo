@@ -26,6 +26,18 @@ Questions will be collected in advance, but you can ask anything you feel like a
 
 Japanese interpreters will also be present.  
 
+## Questions form
+
+事前に以下のGoogle Formで収集します。  
+https://forms.gle/W9mdqS2sBFSM2KcE9  
+
+当日はslidoでも収集します。  
+
+Collect in advance with the following Google Form.  
+https://forms.gle/W9mdqS2sBFSM2KcE9  
+
+Also collected on the day in SLIDO.  
+
 ## Context
 
 2024年の頭にJapan Test Community(以後JTC)というコミュニティが爆誕しました。  
@@ -51,7 +63,7 @@ so please ask anything you want! (What exactly is JTC? Is it not a suspicious fo
 
 ## Date, time and venue
 
-- 開催日時　：　2024 年 9 月 中旬　19：00～21：00 (正確な日程は後日発表）
+- 開催日時　：　2024 年 9 月 3 日　19：00～21：00 (正確な日程は後日発表）
 - 会場　　　：　オンライン開催（Zoom）
 
 - Date : Mid-September 2024 19:00-21:00 (exact date will be announced)
