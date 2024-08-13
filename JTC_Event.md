@@ -63,10 +63,10 @@ so please ask anything you want! (What exactly is JTC? Is it not a suspicious fo
 
 ## Date, time and venue
 
-- 開催日時　：　2024 年 9 月 3 日　19：00～21：00 (正確な日程は後日発表）
+- 開催日時　：　2024 年 9 月 3 日　(火) 19：00～21：00
 - 会場　　　：　オンライン開催（Zoom）
 
-- Date : Mid-September 2024 19:00-21:00 (exact date will be announced)
+- Date : 3 September 2024 (Tuesday) 19:00-21:00
 - Venue: Online (Zoom)
 
 ## Introduction
