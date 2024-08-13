@@ -82,8 +82,8 @@ experience and create an top-tier conference in Japan.
 JTCへのスタンスとしては日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
 JTCに対して平気で批判的な言動をします  
 
-A Dirty Tester/QA who got dragged into this despite not speaking a word of English.
-As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.
+A Dirty Tester/QA who got dragged into this despite not speaking a word of English.  
+As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.  
 He freely makes critical remarks about JTC.
 
 ### 通訳 (Interpreters)
