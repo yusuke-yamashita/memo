@@ -62,22 +62,25 @@ so please ask anything you want! (What exactly is JTC? Is it not a suspicious fo
 ### Mesut Durukal
 
 Mesut（メスト）はTTFの頭です。彼は15年の経験を持つ、シニアQA自動化エンジニアです。  
-彼は人前で話すことに熱心で、PNSQC、ATD、Building Stuff、NDCシドニー、Agileマンチェスター、JaSST、DevopsDays東京など、いくつもの国際会議で150回以上の講演を行ってきました。    
-彼の講演活動は[こちら](https://drive.google.com/file/d/1lKTxhk1KEhXBw4kJRTBnHrfusn1S6-Yi/view?usp=drive_link)にリストされています。  
+彼は人前で話すことに熱心で、PNSQC、ATD、Building Stuff、NDC Sydney、Agile Manchester、JaSST、DevOpsDays Tokyoなど、いくつもの国際会議で150回以上の講演を行ってきました。    
+彼の講演活動のリストは[こちら](https://drive.google.com/file/d/1lKTxhk1KEhXBw4kJRTBnHrfusn1S6-Yi/view?usp=drive_link) です。  
 彼は自身の経験を活かして、日本でトップクラスのカンファレンスを作りたいと考えています。  
 
+(やまずん)なんで作りたいかって？それはManifestoから確認してください。  
 
 Mesut is the head of TTF. He is a senior QA Automation Engineer with 15 years experience. He is passionate about public 
 speaking and has given more than 150 international talks in several conferences like PNSQC, ATD, Building Stuff, 
-NDC Sydney, Agile Manchester, JaSST, DevopsDays Tokyo. His speaking engagements are listed 
+NDC Sydney, Agile Manchester, JaSST, DevOpsDays Tokyo. His speaking engagements are listed 
 [here](https://drive.google.com/file/d/1lKTxhk1KEhXBw4kJRTBnHrfusn1S6-Yi/view?usp=drive_link). He wants to use his
 experience and create an top-tier conference in Japan.
 
-### Yamazun 
+(Yamazun)Why does he want to create it? Please refer to the Manifesto for that.  
+
+### Yamazun(やまずん)
 
 英語一歳喋れないのに巻き込まれたDirty Tester/バキバキQA   
 JTCへのスタンスとしては日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
-JTCに対して平気で批判的な言動をします。
+JTCに対して平気で批判的な言動をします  
 
 A Dirty Tester/QA who got dragged into this despite not speaking a word of English.
 As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.
