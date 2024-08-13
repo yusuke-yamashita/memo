@@ -1,4 +1,4 @@
-# 【JTC & TTF: AskMeAnything】
+# JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会
 
 `JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会([AskMeAnything]`
 
@@ -29,12 +29,11 @@ Japanese interpreters will also be present.
 ## Questions form
 
 事前に以下のGoogle Formで収集します。  
-https://forms.gle/W9mdqS2sBFSM2KcE9  
+[Google Form](https://forms.gle/W9mdqS2sBFSM2KcE9)  
 
 当日はSlidoでも収集する予定。    
 
 Collect in advance with the following Google Form.  
-https://forms.gle/W9mdqS2sBFSM2KcE9  
 
 It will also be collected in Slido on the day.  
 
@@ -63,18 +62,22 @@ so please ask anything you want! (What exactly is JTC? Is it not a suspicious fo
 
 ## Date, time and venue
 
-- 開催日時　：　2024 年 9 月 3 日　(火) 19：00～21：00
-- 会場　　　：　オンライン開催（Zoom）
+-  開催日時：2024年9月3日(火) 19:00～21:00  
 
-- Date : 3 September 2024 (Tuesday) 19:00-21:00
+-  会場：オンライン開催（Zoom）
+
+- Date : 3 September 2024 (Tuesday) 19:00-21:00  
+
 - Venue: Online (Zoom)
 
 ## Agenda
 
 - 15 mins: 紹介プレゼン
+
 - 残り: 質問タイム
 
 - 15 mins: Intro Presentation
+
 - time left: QA time
 
 ## Introduction
