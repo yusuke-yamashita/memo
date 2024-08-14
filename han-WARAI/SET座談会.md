@@ -4,8 +4,7 @@ theme: default
 paginate: true
 ---
 
-# SET（Software Engineer in Test）について
-
+# SET（Software Engineer in Test）座談会
 ---
 
 ## SETとは何なのか
@@ -40,6 +39,13 @@ paginate: true
   - SETがどのようにソフトウェア開発に貢献しているかを具体的に共有し、理解を促進したい。
 - なんとなく楽しそうだから 
   - SETというテーマについて、リラックスした雰囲気で議論し、知見を共有する場を作りたい。
+
+---
+
+## この会の進め方
+
+- 適当に話したい人が話して、聞く人は聞く
+- OSTみたいな感じでやるなら話すところ増やしてもいいです
 
 ---
 
