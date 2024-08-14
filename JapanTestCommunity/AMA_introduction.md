@@ -4,56 +4,53 @@ theme: default
 class: white
 ---
 
-# JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会
+# AMA Session for Japan Test Community and Tokyo Test Fest
 
 ---
 
-# バキバキQAチャンネルとは
-- バキバキQAが見たいものを見て、知りたいことを知り、学びたいことを学ぶ
-- 面白そうなことをやる
+# What is the BakiBaki QA Channel?
+- The BakiBaki QA Channel is where you can see what you want to see, know what you want to know, and learn what you want to learn.
+- We do things that seem interesting.
 
 ---
 
-## 本日の趣旨
-- Japan Test CommunityとTokyo Test Festに対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。
-    - 「リリカルの質問全部答えます」のパロディ
-- JTCとTTFへの「よくわからなさ」を払拭して、立派なコミュニティイベントとして浸透させたい。
-
-
----
-
-# 自己紹介
-- **名前**: やまずん
-- **職業**: テスター
-- **経験**: テスト
-- **興味分野**: 旅行
+## Purpose of Today
+- The Organizer, Mesut Durukal (@DurukalMesut), will answer all your questions about the Japan Test Community and Tokyo Test Fest.
+    - A parody of "Answering All of Lyrical's Questions."
+- We want to clear up the "uncertainty" about JTC and TTF and establish them as reputable community events.
 
 ---
 
-# JTC/TTFへのやまずんの見解
-- JTC/TTFが日本のソフトウェア業界にどう影響を与えるかは不明
-- ただ、直接話してみて、Mesutの情熱は本物なのはわかった
-- 日本に関係のあるテスターやQAがハッピーになって欲しいのは私もそう
-
-
----
-
-# やまずんがJTCに参加しているのか
-- 日本のコミュニティにはない、新しい視点や面白いテーマを知りたい
-- 英語のコミュニティにも参加したいという好奇心
-- なんとなく楽しそうだから
-
+# Self Introduction
+- **Name**: Yamazun
+- **Occupation**: Tester
+- **Experience**: Testing
+- **Areas of Interest**: Travel
 
 ---
 
-# この場をどうしたいのか
-- **相互理解**: 建設的にお互いを知れたらいいね
-- **発展**: いい感じのコミュニティにしたいね
-- **ネットワークの構築**: みんなで仲良くしようよ 
+# Yamazun's View on JTC/TTF
+- It's unclear how JTC/TTF will impact Japan's software industry.
+- However, after speaking directly, I understood that Mesut's passion is genuine.
+- I also want testers and QA professionals in Japan to be happy.
 
 ---
 
-# イベントに参加する上での諸注意
-- 他者を尊重していれば批判はOK、建設的な議論を心がける
-- ダイバーシティを尊重する
-- 楽しんで！
+# Why Yamazun Participates in JTC
+- I want to know new perspectives and interesting themes that don't exist in Japanese communities.
+- Curiosity about participating in an English-speaking community.
+- It just seems fun.
+
+---
+
+# What I Want from This Session
+- **Mutual Understanding**: It would be nice if we could get to know each other constructively.
+- **Growth**: I'd like to see it become a great community.
+- **Networking**: Let's all get along together.
+
+---
+
+# Guidelines for Event Participation
+- Criticism is okay as long as you respect others; aim for constructive discussions.
+- Respect diversity.
+- Enjoy!
