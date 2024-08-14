@@ -32,20 +32,20 @@ It will also be collected in Slido on the day.
 ## Context
 
 2024年の頭にJapan Test Community(以後JTC)というコミュニティが爆誕しました。  
-JTCは日本のQA/テストコミュニティとコラボレーションして、日本をソフトウェアリーダーにしようとしています。
+JTCは日本のQA/テストコミュニティとコラボレーションして、日本をソフトウェアリーダーにしようとしています。  
 
-JTCは11月に Tokyo Test Fest (TTF) というイベントを開きます。このイベントは日本で働くエンジニアたちが言語の壁を超えてつながりを持ち、楽しむために企画されました。一方で、もしかすると「英語のイベントは不安」「主催者が外国人だと不安」という人もいるかもしれません。
+JTCは11月に Tokyo Test Fest (TTF) というイベントを開きます。このイベントは日本で働くエンジニアたちが言語の壁を超えてつながりを持ち、楽しむために企画されました。一方で、もしかすると「英語のイベントは不安」「主催者が外国人だと不安」という人もいるかもしれません。  
 
-こうした不安を取り除くために、AMAセッションを行います。批判的な質問も含め、どんな質問でも大歓迎です。JTCのこともTTFのことも大歓迎です！
+こうした不安を取り除くために、AMAセッションを行います。批判的な質問も含め、どんな質問でも大歓迎です。JTCのこともTTFのことも大歓迎です！  
 
-Japan Test Community (JTC) is created in early 2024.  
-JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.
+Japan Test Community (JTC) is created in early 2024.    
+JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
 
-JTC will hold an event called Tokyo Test Fest (TTF). This is an event for engineers working in Japan to communicate with each other and have fun over the language barrier. 
+JTC will hold an event called Tokyo Test Fest (TTF). This is an event for engineers working in Japan to communicate with each other and have fun over the language barrier.   
 
-However, we understand that some people may worry about communication in English or even visiting an event held by foreigner. 
+However, we understand that some people may worry about communication in English or even visiting an event held by foreigner.   
 
-To remove such concerns, we will have an AMA session. We welcome any and all questions, including critical ones, so please ask anything you want, both about JTC and TTF!
+To remove such concerns, we will have an AMA session. We welcome any and all questions, including critical ones, so please ask anything you want, both about JTC and TTF!  
 
 ## Date, time and venue
 
