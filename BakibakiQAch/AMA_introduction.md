@@ -23,7 +23,7 @@ class: white
 
 # Self Introduction
 - **Name**: Yamazun
-- **Occupation**: Tester
+- **Occupation**: Tester in Osaka
 - **Experience**: Testing
 - **Areas of Interest**: Travel
 
