@@ -1,9 +1,5 @@
 # JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会
 
-`JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会([AskMeAnything]`
-
-`A meeting to answer all your questions about JapanTestCommunity and TokyoTestFest.`
-
 この文章は、日本語ネイティブじゃない方にも理解できるように、英語を併記しています。  
 書いているのは日本語ネイティブのやまずん(@55_ymzn)です。  
 
@@ -12,7 +8,7 @@ It is written by a native Japanese speaker Yamazun(@55_ymzn).
 
 ## General
 
-Japan Test Communityに対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。  
+[Japan Test Community](https://japantestcommunity.connpass.com/)と[Tokyo Test Fest](https://tokyotestfest.com/)に対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。  
 本イベントはAsk Me Anything (AMA)形式で行います。  
 
 事前に質問は収集しますが、その場で聞きたくなったことを聞いてもいいです。  
