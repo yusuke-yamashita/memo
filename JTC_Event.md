@@ -1,10 +1,6 @@
 # JapanTestCommunityとTokyoTestFestに対する疑問に全部答える会
 
-この文章は、日本語ネイティブじゃない方にも理解できるように、英語を併記しています。  
-書いているのは日本語ネイティブのやまずん(@55_ymzn)です。  
-
-This text is also written in English so that non-native Japanese speakers can understand it.  
-It is written by a native Japanese speaker Yamazun(@55_ymzn).  
+この文章は、英語を併記しています。  
 
 ## General
 
@@ -36,25 +32,20 @@ It will also be collected in Slido on the day.
 ## Context
 
 2024年の頭にJapan Test Community(以後JTC)というコミュニティが爆誕しました。  
-JTCは日本のQA/テストコミュニティとコラボレーションして、日本をソフトウェアリーダにしようと画策しています。  
+JTCは日本のQA/テストコミュニティとコラボレーションして、日本をソフトウェアリーダーにしようとしています。
 
-実はJTCはチームに日本人を迎え入れたいと思っていました。  
-そのために様々なコミュニティとコミュニケーションをとり、交流しようとしました。  
-しかし、JTCはネイティブスピーカーではなかったり、文化的背景を知らないせいで、これらの活動は不自然で、"怪しい"とさえ感じられることがありました。  
-我々はそれらの意図をきちんと説明したいです。   
+JTCは11月に Tokyo Test Fest (TTF) というイベントを開きます。このイベントは日本で働くエンジニアたちが言語の壁を超えてつながりを持ち、楽しむために企画されました。一方で、もしかすると「英語のイベントは不安」「主催者が外国人だと不安」という人もいるかもしれません。
 
-そのために、AMAセッションを行います。批判的な質問も含め、どんな質問でも大歓迎です。なんでも聞いてください！  
-(JTCってなんなの？怪しい外国人のコミュニティじゃないの？)  
+こうした不安を取り除くために、AMAセッションを行います。批判的な質問も含め、どんな質問でも大歓迎です。JTCのこともTTFのことも大歓迎です！
 
 Japan Test Community (JTC) is created in early 2024.  
-JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.  
+JTC collaborates with the Japanese QA/testing community and plans to make Japan a software leader.
 
-JTC wants to have Japanese people in the organization team. They tried to communicate and interact with them, 
-but since they were not native speakers and were unaware of their cultural background, this effort seemed unnatural and even suspicious.  
-These want to express themselves and explain their intention.
+JTC will hold an event called Tokyo Test Fest (TTF). This is an event for engineers working in Japan to communicate with each other and have fun over the language barrier. 
 
-For this purpose, we will have a AMA session. We welcome any and all questions, including critical ones, 
-so please ask anything you want! (What exactly is JTC? Is it not a suspicious foreign community?)
+However, we understand that some people may worry about communication in English or even visiting an event held by foreigner. 
+
+To remove such concerns, we will have an AMA session. We welcome any and all questions, including critical ones, so please ask anything you want, both about JTC and TTF!
 
 ## Date, time and venue
 
@@ -101,7 +92,7 @@ experience and create an top-tier conference in Japan.
 JTCへのスタンスとしては日本にいるテスターQAが幸せなら協力するし、害になるならやめる覚悟を持った光の戦士  
 JTCに対して平気で批判的な言動をします  
 
-A Dirty Tester/QA who got dragged into this despite not speaking a word of English.  
+A Dirty Tester/Bakibaki QA who got dragged into this despite not speaking a word of English.  
 As for his stance toward JTC, he is a “warrior of light” who is ready to cooperate if it makes Japanese testers and QA happier, but will stop if it becomes harmful.  
 He freely makes critical remarks about JTC.
 
