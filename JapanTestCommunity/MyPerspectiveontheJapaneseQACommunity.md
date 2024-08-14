@@ -44,10 +44,6 @@ Official website: [https://www.juse.jp/sqip/symposium/](https://www.juse.jp/sqip
 
 The Test Design Contest is held annually from around October to January. Participants can join individually for 5000 yen or as a company for 55,000 yen.
 
-It is worth noting that this is not just a "bug-hunting contest," but rather a competition to showcase the high level of skill in test design. This is often referred to as "test development."
-
-The main judging points are the "test analysis," where one comprehensively considers what to test and how, and the "test architecture design," where one explains these decisions convincingly.
-
 Listening to the contest is free.
 
 Official website: [https://www.aster.or.jp/testcontest/](https://www.aster.or.jp/testcontest/)
