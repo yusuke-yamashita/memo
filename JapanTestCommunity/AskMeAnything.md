@@ -7,12 +7,20 @@
 [Japan Test Community](https://japantestcommunity.connpass.com/)と[Tokyo Test Fest](https://tokyotestfest.com/)に対する疑問を、Organizerの Mesut Durukal(@DurukalMesut)が全部答えます。  
 本イベントはAsk Me Anything (AMA)形式で行います。  
 
+このミーティングは、皆さまから寄せられた質問にアンサーすることを目的としています。  
+Tokyo Test Festは今回が初めての開催となるため、どのように進むのか、様々な疑問をお持ちかもしれません。  
+主催者がそれらを明確にし、イベントの紹介も行います。  
+
 事前に質問は収集しますが、その場で聞きたくなったことを聞いてもいいです。  
 
 日本語の通訳も参加します。  
 
 Organiser Mesut Durukal (@DurukalMesut) will answer all your questions about Japan Test Community.  
 This event will be conducted in an Ask Me Anything format.  
+
+This meeting is planned to answer the questions asked by the audience.   
+Since TTF will be conducted for the first time, people may want to know how it will go and have different questions. 
+Organizers will clarify them and introduce the event.  
 
 Questions will be collected in advance, but you can ask anything you feel like asking on the spot.  
 
