@@ -12,12 +12,23 @@ class: white
 - The BakiBaki QA Channel is where you can see what you want to see, know what you want to know, and learn what you want to learn.
 - We do things that seem interesting.
 
+<!--
+バキバキQAチャンネルとは、見たいものをみて、知りたいことを知り、学びたいことを学ぶ場です。
+面白いことはなんでもします。
+-->
+
 ---
 
 ## Purpose of Today
 - The Organizer, Mesut Durukal (@DurukalMesut), will answer all your questions about the Japan Test Community and Tokyo Test Fest.
     - A parody of "Answering All of Lyrical's Questions."
 - We want to clear up the "uncertainty" about JTC and TTF and establish them as reputable community events.
+
+<!--
+今日の趣旨としては、Japan Test CommunityとTokyo Test Festに対する質問をオーガーナイザーのメストが全部答えます。
+これって実は「リリカルの質問の全部答える」というイベントのパロディーです。
+なんにせよ、JTCとTTFの「よくわからん」を払拭したいというのが今回の趣旨です。
+-->
 
 ---
 
@@ -34,12 +45,27 @@ class: white
 - However, after speaking directly, I understood that Mesut's passion is genuine.
 - I also want testers and QA professionals in Japan to be happy.
 
+<!--
+私の見解なんですが、JTCやTTFが日本の界隈にどうインパクトするかよくわかってないです。
+ただ、実際にメストと喋ってみて、この人の情熱は本物なんじゃないかなーと思ったりします。
+そんで、私は日本で活動しているQAとテスターが幸せになったらいいと思ってます。
+この人がどういう人であれ、そうであればいいと思ってます。
+-->
+
 ---
 
 # Why Yamazun Participates in JTC
 - I want to know new perspectives and interesting themes that don't exist in Japanese communities.
 - Curiosity about participating in an English-speaking community.
 - It just seems fun.
+
+<!---
+何で私がここにいるかって話なんですが、
+私はJTCとかTTFで、日本のコミュニティにない新しい視点や面白いテーマに触れたいと思っています。それを期待しています。
+あと、私自身英語喋れないんですけど、メストやクリスが受け入れてくれたのもあって、英語圏のコミュニティに参加することの好奇心を満たしたいと思います
+あと楽しそうだからですね。
+
+--->
 
 ---
 
@@ -48,9 +74,23 @@ class: white
 - **Growth**: I'd like to see it become a great community.
 - **Networking**: Let's all get along together.
 
+<!---
+# このセッションに望むこと
+- 相互理解**： 建設的にお互いを知ることができれば良い。
+- 成長**： 素晴らしいコミュニティになってほしい。
+- ネットワーク**： みんなで仲良くしましょう。
+--->
+
 ---
 
 # Guidelines for Event Participation
 - Criticism is okay as long as you respect others; aim for constructive discussions.
 - Respect diversity.
 - Enjoy!
+
+<!---
+# イベント参加ガイドライン
+- 他者を尊重する限り、批判は構わない。建設的な議論を目指すこと。
+- 多様性を尊重しましょう。
+- 楽しみましょう！
+--->
