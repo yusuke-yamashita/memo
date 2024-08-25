@@ -32,6 +32,20 @@ class: white
 
 ---
 
+## Context
+
+- I had been promoting JTC and TTF to various people, but I was reaching out without properly explaining what JTC and TTF were.
+- As a result, some people expressed that they didn’t really understand what JTC and TTF were about.
+- When I told Mesut about this, he suggested, “Well, let’s do an AMA,” so we decided to go ahead with it.
+<!--
+- JTCとTTFについて各方面に宣伝していたが、JTCやTTFについてうまく説明しないまま接触していた。
+- なので、JTCやTTFについて「よくわからん」という意見が出てきた
+- これをmesutに伝えたら、「じゃあAMAするよ」って提案が出たので、やることになった。
+
+--->
+
+---
+
 # Self Introduction
 - **Name**: Yamazun
 - **Occupation**: Tester in Osaka
