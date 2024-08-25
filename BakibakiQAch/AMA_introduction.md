@@ -109,3 +109,10 @@ class: white
 - 多様性を尊重しましょう。
 - 楽しみましょう！
 --->
+
+---
+
+# We use slido
+
+![](QRCodeforaskmeanything_20240903.png)
+
