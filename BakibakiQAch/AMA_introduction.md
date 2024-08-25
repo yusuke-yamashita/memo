@@ -49,7 +49,7 @@ class: white
 私の見解なんですが、JTCやTTFが日本の界隈にどうインパクトするかよくわかってないです。
 ただ、実際にメストと喋ってみて、この人の情熱は本物なんじゃないかなーと思ったりします。
 そんで、私は日本で活動しているQAとテスターが幸せになったらいいと思ってます。
-この人がどういう人であれ、そうであればいいと思ってます。
+メストがどういう人であれ、そうであればいいと思ってます。
 -->
 
 ---
@@ -85,6 +85,7 @@ class: white
 
 # Guidelines for Event Participation
 - Criticism is okay as long as you respect others; aim for constructive discussions.
+- [JP]多少を尊重する限り、批判的な意見はOK。建設的な議論をしてください。
 - Respect diversity.
 - Enjoy!
 
