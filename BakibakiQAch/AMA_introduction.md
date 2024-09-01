@@ -143,3 +143,10 @@ Japan Test CommunityとTokyo Test Confってなんやねんって話は後でメ
 ![](QRCodeforaskmeanything_20240903.png)
 
 - You can ask them questions in Slido or you can speak directly to them with the microphone on.
+
+<!---
+Slidoを用意してます。
+メスットが話している間とかに書いてくれてもいいです。
+他にも書いてもOK
+もし直接話したかったらマイクをオンにして聞いてもらってもいいです。
+--->
