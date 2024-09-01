@@ -126,3 +126,4 @@ class: white
 
 ![](QRCodeforaskmeanything_20240903.png)
 
+- You can ask them questions in Slido or you can speak directly to them with the microphone on.
