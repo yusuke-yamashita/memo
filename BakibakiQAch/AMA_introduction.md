@@ -6,6 +6,14 @@ class: white
 
 # AMA Session for Japan Test Community and Tokyo Test Fest
 
+<!---
+みなさんこんばんわ〜
+本日はお集まりいただきありがとうございます。
+今日はですね、Japan Test CommunityとTokyo Test Festについて色々聞く会ということでお話しします。
+
+スライドは全部英語なんですけど、私は日本語しか話せないので、日本語で話そうと思います。
+--->
+
 ---
 
 # What is the BakiBaki QA Channel?
@@ -19,20 +27,21 @@ class: white
 
 ---
 
-## Purpose of Today
+# Purpose of Today
 - The Organizer, Mesut Durukal (@DurukalMesut), will answer all your questions about the Japan Test Community and Tokyo Test Fest.
     - A parody of "Answering All of Lyrical's Questions."
 - We want to clear up the "uncertainty" about JTC and TTF and establish them as reputable community events.
 
 <!--
-今日の趣旨としては、Japan Test CommunityとTokyo Test Festに対する質問をオーガーナイザーのメストが全部答えます。
+今日の趣旨としては、Japan Test CommunityとTokyo Test Festに対する質問をオーガーナイザーのメスットが全部答えます。
 これって実は「リリカルの質問の全部答える」というイベントのパロディーです。
 なんにせよ、JTCとTTFの「よくわからん」を払拭したいというのが今回の趣旨です。
+Japan Test CommunityとTokyo Test Confってなんやねんって話は後でメスットがしてくれます。
 -->
 
 ---
 
-## Context
+# Context
 
 - I had been promoting JTC and TTF to various people, but I was reaching out without properly explaining what JTC and TTF were.
 - As a result, some people expressed that they didn’t really understand what JTC and TTF were about.
@@ -119,6 +128,13 @@ class: white
     - By ‘use,’ I mean, for example, answering the questions in a blog post at a later date. "利用"とは例えば後でブログで答えを書くなどです。
     - If you do not want your questions to be used, please let us know. もし利用して欲しくなければお伝えください。
 
+
+---
+
+# Agenda
+- Introduction (Now)
+- Mesut will give a brief explanation about JTC and TTF.
+- Ask Me Anything.
 
 ---
 
