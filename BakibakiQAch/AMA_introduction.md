@@ -112,6 +112,16 @@ class: white
 
 ---
 
+# Notes
+
+- No recordings will be made. レコーディングはしません。
+- The content of the questions asked may be used without the participants’ permission. ただ、質問は後日利用する場合があります。
+    - By ‘use,’ I mean, for example, answering the questions in a blog post at a later date. "利用"とは例えば後でブログで答えを書くなどです。
+    - If you do not want your questions to be used, please let us know. もし利用して欲しくなければお伝えください。
+
+
+---
+
 # We use slido
 
 ![](QRCodeforaskmeanything_20240903.png)
