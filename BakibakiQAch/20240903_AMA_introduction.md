@@ -136,6 +136,8 @@ Japan Test CommunityとTokyo Test Confってなんやねんって話は後でメ
 - Mesut will give a brief explanation about JTC and TTF.
 - Ask Me Anything.
 
+
+
 ---
 
 # We use slido
